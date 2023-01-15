@@ -3,4 +3,6 @@
 to-do list built with react<br />
 All components are in src<br />
 instruction:<br />
-git clone https://AnonimusZ6/
+git clone https://github.com/AnonimusZ6/react-todo<br />
+cd react-todo<br />
+npm start
